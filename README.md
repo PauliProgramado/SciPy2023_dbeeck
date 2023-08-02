@@ -47,7 +47,7 @@ After that you can exit the program by simply clicking on the 'x' button.<br />
 
 ## Included files
 
-Readme file: 'README.md' -> expaines programm + usage <br />
+Readme file: 'README.md' -> explaines programm + usage <br />
 Python files: 'make_interface.py', 'plot_data.py' and 'stroop_main.py' -> main part of the program <br />
 Text file: 'requirements.txt' -> containing all the necesarry installations <br />
 Data file: 'combined.csv' -> including trial data of multiple people doing the stroop task. Please make sure not to delete this file as it provides the data which is compared to yours!<br />
